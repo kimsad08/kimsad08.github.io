@@ -1,5 +1,4 @@
 const wrapper = document.querySelector('.wrapper');
-const question = document.querySelector(".question");
 const gif = document.querySelector('.gif');
 const noBtn = document.querySelector('.no-btn');
 
